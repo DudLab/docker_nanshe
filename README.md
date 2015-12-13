@@ -2,6 +2,8 @@
 
 # Purpose
 
+[![Join the chat at https://gitter.im/DudLab/docker_nanshe](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DudLab/docker_nanshe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Provides the latest release of `nanshe` and dependencies installed in a supported cluster environment.
 
 # Building
